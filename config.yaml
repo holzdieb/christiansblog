@@ -131,7 +131,7 @@ params:
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
-      link: info@christiansblog.eu
+      link: doesn't matter
       title: My Email
     # option to specify your linkedin profile in the footer
     # linkedin: 
@@ -139,9 +139,9 @@ params:
     # title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
-    facebook: 
-      link: christiansblog.eu
-      title: Facebook
+    # facebook: 
+    # link: username
+    # title: Facebook
     # option to specify your github account in the footer; 
     # **uncomment** the below lines to show in footer
       github: 
@@ -164,9 +164,9 @@ params:
     #    title: Instagram
     # option to specify your telegram username in the footer; 
     # **uncomment** the below lines to show in footer
-      telegram: 
-         link: christiansblog
-         title: Telegram
+    # telegram: 
+    #    link: username
+    #    title: Telegram
     # option to specify the copyright in the footer
     copyright: Christians Blog - 2025
 
